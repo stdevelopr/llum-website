@@ -1,0 +1,22 @@
+{
+  "name": "llum-website",
+  "version": "1.0.0",
+  "description": "LL'UM Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stdevelopr/llum-website.git"
+  },
+  "author": "stdevelopr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stdevelopr/llum-website/issues"
+  },
+  "homepage": "https://github.com/stdevelopr/llum-website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
